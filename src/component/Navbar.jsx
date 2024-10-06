@@ -25,9 +25,9 @@ export const Navbar = () => {
         <FaSquareTwitter />
         </a>
 
-        <a href="https://github.com/vinosaravanan" target='_blank' className='text-2xl' >
+        {/* <a href="https://github.com/vinosaravanan" target='_blank' className='text-2xl' >
         <FaInstagramSquare />
-        </a>
+        </a> */}
       </div>
     </nav>
   );
