@@ -41,7 +41,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "A fully functional e-commerce website featuring product listing, shopping cart, user authentication, and search and filter functions. Integrated React for the frontend and Redux Toolkit for state management. Implemented secure authentication with Node.js, Express.js, and MongoDB for backend services. Designed responsive layouts using Tailwind CSS for an optimized user experience across devices.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+    technologies: ["React", "Tailwind", "ReduxToolkit", "Node.js", "MongoDB"],
   },
 
 ];
