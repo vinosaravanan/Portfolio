@@ -6,9 +6,9 @@ import { FaInstagramSquare } from "react-icons/fa";
 
 export const Navbar = () => {
   return (
-    <nav className="mb-10 flex items-center justify-between py-5">
+    <nav className="mb-10 flex items-center justify-between py-5 ">
       <div className="flex flex-shrink-0 items-center">
-         <h1 className="text-2xl font-custom ">VS</h1>
+         <h1 className="text-2xl  font-custom ">V<span className="text-orange-700">S</span></h1>
       </div>
 
       <div className="flex items-center justify-center gap-4 text-2x1 mr-5">
