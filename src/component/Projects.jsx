@@ -44,7 +44,7 @@ const Projects = () => {
                             </span>
                         ))}
                         <div className='flex mt-4 ml-w'>
-                            <a href="https://toys-ecommarce-frontend.onrender.com/" target='_black' className='mr-5  p-1 bg-orange-800 rounded w-16 text-center'>
+                            <a href="https://toys-ecommarce-frontend.onrender.com/" target='_black' className='mr-5  p-1 bg-violet-700 rounded w-16 text-center'>
                               <button>Demo</button>
                             </a>
 
